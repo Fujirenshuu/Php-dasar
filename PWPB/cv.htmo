@@ -1,0 +1,40 @@
+<aside>
+<h3>Profil Saya</h3>
+<table border="">
+<tr>
+<td> <img src="fujil.jpg" alt="foto profile" width="100px"></td>
+<td>-----------</td>
+<td></td>
+<td>-----------</td>
+</tr>
+<tr>
+<td>Nama Lengkap</td>
+<td>     :</td>
+<td>Fuji Halim Rabbani </td>
+</tr>
+<tr>
+<td>Tempat/Tgl.lahir</td>
+<td>     :</td>
+<td>Bandung, 16-01-2006</td>
+</tr>
+<tr>
+<td>Jenis Kelamin</td>
+<td>     :</td>
+<td><i>laki-laki</i></td>
+</tr>
+<tr>
+<td>tinggi/berar badan</td>
+<td>     :</td>
+<td>160 <small>cm</small> 50<small>kg</small></td>
+</tr>
+<tr>
+<td>Agama</td>
+<td>:</td>
+<td><b>ISLAM</b></td>
+</tr>
+<tr>
+<td>No.Tlp</td>
+<td>:</td>
+<td>087897527344</td>
+
+<tr>
